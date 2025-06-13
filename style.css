@@ -52,7 +52,6 @@ a {
     transition: transform 0.2s ease;
 }
 
-
 .container1:hover, .container2:hover, .container3:hover, .container4:hover {    
     transform: scale(1.03);
 }
